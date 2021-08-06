@@ -1,0 +1,8 @@
+E:\Workspace\Projects\Rabbit\Rabbit\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.deps.json
+E:\Workspace\Projects\Rabbit\Rabbit\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.dll
+E:\Workspace\Projects\Rabbit\Rabbit\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.pdb
+E:\Workspace\Projects\Rabbit\Rabbit\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfoInputs.cache
+E:\Workspace\Projects\Rabbit\Rabbit\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfo.cs
+E:\Workspace\Projects\Rabbit\Rabbit\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csproj.CoreCompileInputs.cache
+E:\Workspace\Projects\Rabbit\Rabbit\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.dll
+E:\Workspace\Projects\Rabbit\Rabbit\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.pdb
